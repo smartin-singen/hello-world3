@@ -21,12 +21,5 @@ print(a+b)
 </html>
 ```
 
-Sie wurden gehackt
-
 ## Teilnehmer
 Stefan Martin
-
-<img width="495" height="619" alt="image" src="https://github.com/user-attachments/assets/393d10b5-03dd-4cc1-9c72-1595050dfd59" />
-<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/227a0dfc-4a47-4e30-85e4-2458ab345e84" />
-
-## Sali
